@@ -1,0 +1,8 @@
+{
+    "join-users": [
+
+    ],
+    "_headers": {
+        "Access-Control-Allow-Origin": "*"
+    }
+}
